@@ -1,7 +1,20 @@
 COVID 19 Data Analysis and Visualization:
+To Visualize the covid-19 Dataset we alalyses the following steps:
+
+1. Worldwide Total Confirmed, Recovered and Deaths cases
+2. Case Density Animation on World Map (Time Laps)
+3. Cases over the time with area plot
+4. Folium Maps
+5. Confirmed Cases with Choropleth Map
+6. Death and Recovered per 100 cases
+7. Confirmed and Death cases with static colormap
+8. New Cases and Number of Countries 
+9. Top 15 Countries Case Analysis
+10. Confirmed,Deaths, New Cases VS Country and Time Bar Plots
+11. Confirmed,Deaths, New Cases VS Country and Time Line Plots
+12. Tree Map Analysis
 
 Covid-19-Preprocessed-Dataset
-
 This dataset includes time series data tracking the number of people affected by COVID-19 worldwide, including:
 
 1. confirmed tested cases of Coronavirus infection
