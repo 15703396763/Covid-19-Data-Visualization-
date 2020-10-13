@@ -1,5 +1,6 @@
 # Covid-19-Data-Visualization
 Covid-19-Preprocessed-Dataset
+
 This dataset includes time series data tracking the number of people affected by COVID-19 worldwide, including:
 
 1. confirmed tested cases of Coronavirus infection
@@ -7,6 +8,7 @@ This dataset includes time series data tracking the number of people affected by
 3. the number of people who have reportedly recovered from it
 
 Data Collection:
+
 Data is in CSV format and updated daily. It is sourced from this upstream repository maintained by the amazing team at Johns Hopkins University Center for Systems Science and Engineering (CSSE) who have been doing a great public service from an early point by collating data from around the world.
 
 Sources:
