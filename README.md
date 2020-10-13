@@ -1,4 +1,6 @@
-COVID 19 Data Analysis and Visualization:
+#COVID 19 Data Analysis and Visualization
+
+
 To Visualize the covid-19 Dataset we alalyses the following steps:
 
 1. Worldwide Total Confirmed, Recovered and Deaths cases
